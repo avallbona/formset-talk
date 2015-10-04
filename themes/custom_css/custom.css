@@ -1,0 +1,64 @@
+/* We can customize the theme CSS here */
+
+pre {
+    font-size: 23px
+}
+
+
+
+
+/*section ul li {font-size:24px; color:#555; padding: 8px 0;}*/
+/*section ul li ul li {font-size:20px; color:#555; padding: 6px 0;}*/
+/*section ol li {font-size:24px; color:#555; padding: 4px 0;}*/
+section p {
+    font-size: 23px;
+    color: #444
+}
+
+header h1 {
+    color: #3e3e3e !important;
+    border-bottom: 4px solid #e9ae12;
+    font-size: 33px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+header h2 {
+    color: #3e3e3e !important;
+    border-bottom: 4px solid #e9ae12;
+    font-size: 29px;
+}
+
+section h1 {
+    color: #3e3e3e !important;
+    font-size: 30px;
+}
+
+section h2 {
+    color: #3e3e3e !important;
+    font-size: 26px;
+}
+
+section h3 {
+    color: #3e3e3e !important;
+    font-size: 22px;
+}
+
+div.slide {
+    margin-left: 30px !important;
+    width:960px;
+}
+
+div.slide-wrapper:nth-child(8)  pre {
+    font-size: 15px;
+}
+
+.slide header:only-child h1 {
+    border-bottom:none;
+    background-position: center 190px;
+    background-image: url(../../img/apsl.png);
+    background-repeat: no-repeat;
+}
+div#help {
+    z-index: 1000;
+}
