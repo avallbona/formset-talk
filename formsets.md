@@ -1,5 +1,17 @@
 # FORMSETS
+.fx: initial
 
+Andreu Vallbona - Ligthing Talks - Octubre 2015
+
+
+---
+
+# Karma
+.fx: karma
+
+[guru]: img/guru.png
+![alt text][guru]
+Juan Moreno es mi pastor, nada me falta.
 
 ---
 
@@ -154,6 +166,8 @@ Per actualitzar heretam de **UpdateWithInlinesView**
 --- 
 
 # Templates 1
+.fx: template1
+
     !html
     {% block content2 %}
     <script src="{{ STATIC_URL }}hotcontrol/js/jquery.formset.min.js"></script>
@@ -213,6 +227,8 @@ problemes si no està ben col.locat.
 --- 
 
 # Templates 2
+.fx: template2
+
     !html
     <br><!-- continues from previous form slide -->
         <div class="col-xs-12 col-md-offset-2">
@@ -238,7 +254,7 @@ bastaria afegir els dos botons per a cada tupla i activar la funcionalitat en js
     
 ---
 
-# Un altre exemple
+# Another example
 
 [formset-example-2]: img/captura_formsets_cropped.png
 ![alt text][formset-example-2]
@@ -247,12 +263,26 @@ bastaria afegir els dos botons per a cada tupla i activar la funcionalitat en js
 En aquest cas per qüestions d'usabilitat s'ha organitzat el formulari amb pestanyes
 
 ---
+
+# Almost finish
+.fx: tools
+
+Proudly created with 
+
+[logo-pycharm]: img/logo_pycharm_2.png
+![alt text][logo-pycharm]
+
+Landslide and Avalanche
+
+
+---
     
 # Thanks
 * Thanks to:
     * https://github.com/AndrewIngram/django-extra-views
     * https://github.com/pretix/django-formset-js
     * http://www.morenosan.com/
+    * https://docs.djangoproject.com/en/1.8/topics/forms/formsets/
     * landslide python: https://github.com/adamzap/landslide                       
     * avalanche lanslide theme:  https://github.com/akrabat/avalanche   
     

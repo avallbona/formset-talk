@@ -1,20 +1,11 @@
 /* We can customize the theme CSS here */
-
 pre {
     font-size: 23px
 }
-
-
-
-
-/*section ul li {font-size:24px; color:#555; padding: 8px 0;}*/
-/*section ul li ul li {font-size:20px; color:#555; padding: 6px 0;}*/
-/*section ol li {font-size:24px; color:#555; padding: 4px 0;}*/
 section p {
     font-size: 23px;
     color: #444
 }
-
 header h1 {
     color: #3e3e3e !important;
     border-bottom: 4px solid #e9ae12;
@@ -22,18 +13,15 @@ header h1 {
     margin-top: 5px;
     margin-bottom: 15px;
 }
-
 header h2 {
     color: #3e3e3e !important;
     border-bottom: 4px solid #e9ae12;
     font-size: 29px;
 }
-
 section h1 {
     color: #3e3e3e !important;
     font-size: 30px;
 }
-
 section h2 {
     color: #3e3e3e !important;
     font-size: 26px;
@@ -49,8 +37,13 @@ div.slide {
     width:960px;
 }
 
-div.slide-wrapper:nth-child(8)  pre {
+div.template1 pre {
     font-size: 15px;
+}
+
+div.tools section p{
+    text-align: center;
+    font-size: 55px;
 }
 
 .slide header:only-child h1 {
@@ -61,4 +54,28 @@ div.slide-wrapper:nth-child(8)  pre {
 }
 div#help {
     z-index: 1000;
+}
+
+div.initial {
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-image: url(../../img/apsl_big.jpg);
+    background-size: 50%;
+}
+
+div.initial h1 {
+    text-align: center;
+    margin-top:450px;
+    padding-bottom: 20px;
+}
+div.initial p {
+    text-align: center;
+}
+
+div.karma img {
+    float: left;
+}
+div.karma p {
+    text-align: center;
+    font-size: 75px;
 }
