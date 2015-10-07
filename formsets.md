@@ -11,7 +11,11 @@ Andreu Vallbona - Ligthing Talks - Octubre 2015
 
 [guru]: img/guru.png
 ![alt text][guru]
-Juan Moreno es mi pastor, nada me falta.
+**Morenosan**
+
+es mi pastor,
+
+nada me falta.
 
 ---
 
