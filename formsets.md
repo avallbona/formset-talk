@@ -3,20 +3,6 @@
 
 Andreu Vallbona - Ligthing Talks - Octubre 2015
 
-
----
-
-# Karma
-.fx: karma
-
-[guru]: img/guru.png
-![alt text][guru]
-**Morenosan**
-
-es mi pastor,
-
-nada me falta.
-
 ---
 
 # Introduction
@@ -285,7 +271,6 @@ Landslide and Avalanche
 * Thanks to:
     * https://github.com/AndrewIngram/django-extra-views
     * https://github.com/pretix/django-formset-js
-    * http://www.morenosan.com/
     * https://docs.djangoproject.com/en/1.8/topics/forms/formsets/
     * landslide python: https://github.com/adamzap/landslide                       
     * avalanche lanslide theme:  https://github.com/akrabat/avalanche   
